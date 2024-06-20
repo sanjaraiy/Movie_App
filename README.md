@@ -17,7 +17,7 @@ The Movie App is a web application that allows users to browse popular movies, s
 - `JavaScript`: Implements functionality, fetches data from APIs, handles events, and dynamically updates the DOM.
 
 ## Demo Image 
-![]()
+<img src="https://github.com/sanjaraiy/Movie_App/blob/main/assets/images/movie-image1.png" width="60%" height="30%"/>
 
 ## How to Use
 1) Clone the Repository: Clone this repository to your local machine.
