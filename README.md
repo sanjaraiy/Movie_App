@@ -40,7 +40,7 @@ The Movie App is a web application that allows users to browse popular movies, s
 - For any issues or enhancements, please open an issue in the repository.
 
 ## Contact 
-- Email - [deeprai786756@mgail.com](deeprai786756@mgail.com)
+- Email - [deeprai786756@gmail.com](deeprai786756@gmail.com)
 - LinkedIn - [Sanjay Rai](https://www.linkedin.com/in/sanjay-rai-1491b4228/)
 - Twitter - [Sanjay Rai](https://x.com/Rajende17438932?t=rYhBK4BsO5pZo54UL7785A&s=09)
 
